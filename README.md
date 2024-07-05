@@ -1,26 +1,14 @@
-# 📐 Add Comments to Implementation of CSS Selectors
+# 📐 CSS Style
+      The CSS file styles various elements of the web page to enhance its appearance. Key     
+   styles include:
 
-Work with a partner to add comments that describe the functionality of the code found in [Unsolved](./Unsolved/assets/css/style.css).
+1. Universal Selector: Sets a universal font family.
+2. Body: Sets the background color to lemonchiffon.
+3. Header and Footer: Styles the header and footer with a specific height, line height, and 
+   background color.
+4. Figure: Styles the image container.
+5. Highlighted Text: Uses a class to make text bolder.
+6. Contact Section: Uses an ID to set the background color.
 
-## 📝 Notes
-
-Refer to the documentation: 
-
-[MDN Web Docs on HTML elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-
-[MDN Web Docs on attributes](https://developer.mozilla.org/en-US/docs/Glossary/Attribute)
-
-[MDN Web Docs on CSS selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
-
----
-
-## 🏆 Bonus
-
-If you have completed this activity, work through the following challenge with your partner to further your knowledge:
-
-* What are pseudo-class selectors? 
-
-Use [Google](https://www.google.com) or another search engine to research this.
-
----
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+# 📝 Conclusion
+This project provides a simple yet effective way to create a personal bio webpage using HTML and CSS. The structure and styling can be easily modified to fit personal preferences or additional content.
